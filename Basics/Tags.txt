@@ -1,0 +1,27 @@
+Tags:-
+<strong> :- make text bold     
+<em> :- make text italic     
+<b> :- make text bold
+<i> :- make text italic
+<p> :- write a paragraph
+<h1> :- heading tag
+<br> :- break the line
+<section> :- grouping content of a heading together
+<article> :-independent, self-contained content.  "https://www.w3schools.com/tags/tag_article.asp"
+<aside> :-defines some content aside from the content it is placed in.    "https://www.w3schools.com/tags/tag_aside.asp"
+<blockquote> :- to add indentation to both side of the paragraph from margins
+<ol> :- ordered list
+<ul> :- unordered list
+<li> :- list item
+<dl> :- definition list
+<dt> :- define a term/name in definition list
+<dd>:- used in conjunction with <dl> (defines a description list) and <dt> (defines terms/names)
+<figure> :-specifies self-contained content, like illustrations, diagrams, photos.   "https://www.w3schools.com/tags/tag_figure.asp"
+<figcaption> :- put a name to picture
+<img src> :- used to add pictures in web page
+<img src --- alt attribute> :- specifies an alternate text for an image, if the image cannot be displayed.    "https://www.w3schools.com/tags/att_img_alt.asp"
+<meta> :- defines metadata about an HTML document. Metadata is data (information) about data.    "https://www.w3schools.com/tags/tag_meta.asp"
+
+Self closing tags:- <br/>
+
+<!---     ---> :- used to write comments
